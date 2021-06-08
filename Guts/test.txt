@@ -1,0 +1,17 @@
+﻿define model as property {
+	hello,
+	object {
+		nested {
+			good,
+			okay
+		}
+	}
+}
+
+make row at 0 
+	and make cell at 0
+	and set(text = property.prello.its.good)
+
+make row as test at 1 
+	and make cell at 2
+	and set(text = 'test')

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guts", "Guts\Guts.csproj", "{4F08DBBD-98BB-4809-A6F9-C93A19370761}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guts.Excel", "Guts.Excel\Guts.Excel.csproj", "{0E462055-E4AF-4630-968F-6402ACDBF9BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guts.Tests", "Guts.Tests\Guts.Tests.csproj", "{8585A567-DCD2-4293-97C9-DD1B5FCECD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F08DBBD-98BB-4809-A6F9-C93A19370761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F08DBBD-98BB-4809-A6F9-C93A19370761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F08DBBD-98BB-4809-A6F9-C93A19370761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F08DBBD-98BB-4809-A6F9-C93A19370761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E462055-E4AF-4630-968F-6402ACDBF9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E462055-E4AF-4630-968F-6402ACDBF9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E462055-E4AF-4630-968F-6402ACDBF9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E462055-E4AF-4630-968F-6402ACDBF9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8585A567-DCD2-4293-97C9-DD1B5FCECD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8585A567-DCD2-4293-97C9-DD1B5FCECD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8585A567-DCD2-4293-97C9-DD1B5FCECD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8585A567-DCD2-4293-97C9-DD1B5FCECD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C681C0-55B7-4233-82EB-BE82EDF59919}
+	EndGlobalSection
+EndGlobal
